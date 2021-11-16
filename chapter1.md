@@ -1,6 +1,6 @@
 ---
-title: 'Fitting ARIMA models and making forecasts'
-description: 'Chapter description goes here.'
+title: Fitting ARIMA models and making forecasts
+description: Chapter description goes here.
 ---
 
 ## Fitting ARMA models
